@@ -1,0 +1,6 @@
+@WorkTracker_HostAddress = https://localhost:7211
+
+GET {{WorkTracker_HostAddress}}/hours/
+Accept: application/json
+
+###
